@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+}
+body {
+    background: url('meditaion.jpg') scroll no-repeat;
+    background-size: cover;
+}
+.header {
+    background-color: #2D4675;
+    color: white;
+    font-size: 30px;
+    font-family: fantasy,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+pre {
+    padding: 15px;
+}
+img {
+    width: 28px;
+    height: 28px;
+}
+ul li.uptodown {
+    display: inline;
+    padding: 8px;
+}
+.nav {
+    background-color: #269AA7;
+    color: white;
+    font-size: 30px;
+    padding: 2px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: wheat;
+}
+.content {
+    height: 550px;
+}
+.signinbox {
+    text-align: center;
+    height: 400px;
+    margin: 70px 0 0 660px;
+    width: 55%;
+    background-color: #E06092;
+    border-radius: 5px;
+}
+div p {
+    font: 50px bold;
+    color: white;
+    font-family: cursive;
+    margin: 20px;
+    text-align: center;
+    
+}
+input {
+    width: 300px;
+    height: 50px;
+    margin: 10px;
+}
+button {
+    padding: 10px;
+    margin: 5px;
+}
+.footer {
+    display: flex;
+    background-color: #2D4675;
+    color: white;
+    font-size: 25px;
+    font-weight: lighter;
+    font-family: fantasy,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div1 {
+    padding: 25px;
+    border: solid 1px #5170AB;
+    border-radius: 10px;
+    width: fit-content;
+}
+.div2 {
+    padding: 25px;
+    border: solid 1px #5170AB;
+    border-radius: 10px;
+    width: fit-content;
+    flex: 1;
+}
+.div3 {
+    padding: 25px;
+    border: solid 1px #5170AB;
+    border-radius: 10px;
+    width: fit-content;
+    flex: 2;
+}
+img[src="ad.png"] {
+    width: 750px;
+    height: 200px;
+}
