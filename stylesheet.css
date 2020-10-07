@@ -43,9 +43,14 @@ a:hover {
     height: 400px;
     margin: 70px 0 0 660px;
     width: 55%;
-    background-color: #E06092;
+    background-color: #2D4675;
     border-radius: 5px;
+    border-radius: 70px 0 70px 0;
+    opacity: 0.9;
+    box-shadow: 7px 7px 15px 2px ;
 }
+
+
 div p {
     font: 50px bold;
     color: white;
